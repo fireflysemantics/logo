@@ -1,0 +1,19 @@
+{
+  "name": "@fireflysemantics/logo",
+  "version": "1.0.1",
+  "description": "Firefly Semantics Logo",
+  "main": "logo.svg",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireflysemantics/logo.git"
+  },
+  "keywords": [
+    "Firefly Semantics",
+    "Logo"
+  ],
+  "author": "Ole Ersoy",
+  "bugs": {
+    "url": "https://github.com/fireflysemantics/logo/issues"
+  },
+  "homepage": "https://github.com/fireflysemantics/logo#readme"
+}
