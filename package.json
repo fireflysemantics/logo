@@ -1,8 +1,8 @@
 {
   "name": "@fireflysemantics/logo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Firefly Semantics Logo",
-  "main": "logo.svg",
+  "main": "l1.svg",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fireflysemantics/logo.git"
