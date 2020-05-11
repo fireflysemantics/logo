@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="1451.33"
+   inkscape:export-xdpi="1451.33"
+   inkscape:export-filename="/home/ole/Github/logo/fs-site-logo..png"
+   inkscape:version="1.1-dev (1:0.92.0+devel+202005060039+b792700)"
+   height="200"
+   width="200"
+   sodipodi:docname="fs-site-logo.svg"
+   id="svg6"
+   viewBox="0 0 200 200"
+   version="1.1"
+   class="fs-Logo">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg6"
+     inkscape:window-maximized="1"
+     inkscape:window-y="34"
+     inkscape:window-x="67"
+     inkscape:cy="26.4585"
+     inkscape:cx="26.4585"
+     inkscape:zoom="0.99684412"
+     width="200px"
+     showgrid="false"
+     id="namedview8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1853"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     inkscape:export-ydpi="384"
+     inkscape:export-xdpi="384"
+     style="stroke-width:0.498353"
+     transform="matrix(1.8789139,0,0,2.142985,47.148089,43.386225)"
+     id="g832">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:29.9011"
+       id="rect827"
+       width="106.44447"
+       height="93.327766"
+       x="-25.093267"
+       y="-20.245697" />
+    <g
+       transform="translate(1.6704692,-244.12031)"
+       id="g4"
+       style="fill:#f0ffff;fill-opacity:1;stroke-width:0.498353">
+      <path
+         d="m 0,244.08 v 52.917 H 52.917 V 244.08 Z m 8.8403,6.6415 35.236,12.781 v 4.5625 l -35.236,12.781 v -5.0023 l 28.365,-10.032 -28.365,-10.087 z m 3.7796,11.39 a 3.7798,3.7798 0 0 1 3.7796,3.7801 3.7798,3.7798 0 0 1 -3.7796,3.7796 3.7798,3.7798 0 0 1 -3.7796,-3.7796 3.7798,3.7798 0 0 1 3.7796,-3.7801 z m 31.456,10.461 v 5.0023 l -35.236,12.781 v -5.0023 z"
+         id="path2"
+         style="fill:#f0ffff;fill-opacity:1;stroke-width:0.498353" />
+    </g>
+  </g>
+</svg>
