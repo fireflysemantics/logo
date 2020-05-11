@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 52.916666 52.916669"
+   height="200"
+   width="200">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-11.249983)"
+     id="layer1">
+    <g
+       style="stroke-width:4.41689"
+       transform="matrix(0.22640079,0,0,0.22640079,14.632162,68.906408)"
+       id="g1285">
+      <rect
+         y="-254.6653"
+         x="-64.629463"
+         height="233.73004"
+         width="233.73004"
+         id="rect1248"
+         style="fill:#1a1a1a;stroke-width:70.1191" />
+      <path
+         style="fill:#e6e6e6;stroke-width:6.6601"
+         d="m -35.498135,-161.72728 v 47.85402 h 47.854024 v -47.85402 z m 21.277592,8.95232 c 5.3072621,0 8.4642164,2.71328 9.4709296,8.13992 l 2.534092,-7.49995 H 1.982499 l -5.2475089,15.53774 1.0238896,5.60589 c 0.1535934,0.83621 0.5290881,1.60411 1.1263515,2.30377 0.69965906,0.81916 1.32252138,1.22868 1.86865332,1.22868 H 3.0063886 v 3.99323 H 0.19077507 c -1.60410917,0 -3.12293297,-0.71677 -4.55640497,-2.15024 -0.699659,-0.71671 -1.1945269,-1.82595 -1.4846698,-3.32766 -0.7850108,1.89418 -1.979604,3.58371 -3.5837132,5.06831 -0.7508571,0.69973 -2.3464111,1.04949 -4.7867291,1.04949 -4.010273,0 -6.987968,-1.29692 -8.93375,-3.89076 -1.996581,-2.67927 -2.995005,-6.36524 -2.995005,-11.05793 0,-5.01719 1.083643,-8.70363 3.250928,-11.05793 2.406164,-2.628 5.298706,-3.94197 8.677761,-3.94197 z m 0,3.99323 c -2.286724,0 -3.95052,0.9386 -4.991453,2.81574 -1.314033,2.35504 -1.970983,5.08536 -1.970983,8.19099 0,3.75428 0.639906,6.52732 1.919785,8.31898 1.296922,1.82601 2.977762,2.73901 5.042651,2.73901 2.286725,0 4.044427,-1.81752 5.2731082,-5.45236 l 1.5615328,-4.63307 -1.1263516,-5.91308 c -0.7679669,-4.04443 -2.6707074,-6.06661 -5.7082894,-6.06661 z"
+         fill="#666666"
+         id="path910" />
+      <text
+         x="23.599049"
+         y="-125.54162"
+         fill="#999999"
+         font-family="'Share Tech'"
+         font-size="35.0241px"
+         letter-spacing="0px"
+         stroke-width="5.83163"
+         word-spacing="0px"
+         style="line-height:1.25;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#999999"
+         xml:space="preserve"
+         id="text914"><tspan
+           x="23.599049"
+           y="-125.54162"
+           fill="#999999"
+           font-family="'Share Tech'"
+           font-size="35.0241px"
+           stroke-width="5.83163"
+           style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#999999"
+           id="tspan912">FS ^lpha</tspan></text>
+    </g>
+  </g>
+</svg>
